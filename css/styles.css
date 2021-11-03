@@ -71,3 +71,10 @@ body{
 	width: 150px;
 	background-color: #ff0000;
 }
+
+#carouselButton{
+	right: 0px;
+	position: absolute;
+	bottom: 0px;
+	z-index: 1;
+}
